@@ -1,0 +1,27 @@
+
+PRODUCTION PLAN
+
+ขอบเขต Demo:
+- Exploration ระบบหลัก
+- Battle Prototype
+- Pocket Home พื้นฐาน
+
+Feature Demo:
+- Guardian 3–4 ตัว
+- Enemy 2 กลุ่ม
+- 1 World Area
+
+Workflow:
+Concept → Prototype → Test → Polish
+
+Timeline:
+เดือน 1–2: Core System
+เดือน 3–4: Content & UX
+เดือน 5–6: Polish & Demo
+
+Milestone:
+- Playable Prototype
+- Vertical Slice
+
+Scope Control:
+Feature ที่ไม่จำเป็นเลื่อนไป Full Version

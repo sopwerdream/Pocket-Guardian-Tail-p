@@ -1,0 +1,53 @@
+
+PITCH DECK (รายละเอียดเต็ม)
+
+เอกสารนี้ใช้สื่อสารภาพรวมโครงการ Pocket Guardian Tail ให้กรรมการเข้าใจภายในเวลาจำกัด โดยต้องตอบให้ได้ว่าเกมคืออะไร ทำไมควรลงทุน และทีมนี้ทำได้จริงหรือไม่
+
+โครงสไลด์ที่แนะนำ:
+1) Title
+ชื่อเกม, Tagline, Platform, ทีมผู้พัฒนา
+
+2) Problem & Opportunity
+ตลาดเกม Tactical/Indie มีการแข่งขันสูง แต่ยังขาดเกมที่ผสม Cute Visual + Tactical + Emotional อย่างสมดุล
+
+3) Game Concept
+ผู้เล่นรับบท Guardian ปกป้อง Pocket World ผ่านการสำรวจและการต่อสู้เชิงกลยุทธ์
+
+4) Genre & Core Fantasy
+Turn-Based Tactical RPG + Isometric Exploration
+
+5) Gameplay Loop
+Explore → Engage → Battle → Recover → Grow
+
+6) Exploration Mode
+Isometric 3D Diorama, กล้องล็อกหมุนได้เล็กน้อย, เลือกเส้นทางและเหตุการณ์
+
+7) Battle Mode
+Turn-Based Tactical, Grid-based, เน้น Positioning และ Synergy
+
+8) Unique Selling Points
+Cute but serious, Emotional system มีผลต่อ Gameplay จริง
+
+9) Target Audience
+ผู้เล่น PC/Steam, Indie, Tactical, Cozy+Emotional
+
+10) Platform Strategy
+เริ่ม PC, ขยาย Mobile ตาม Milestone
+
+11) Monetization & Pricing
+Premium PC, F2P Mobile (Future)
+
+12) Roadmap
+Demo → Full Production
+
+13) Team
+บทบาทชัด ครบ Business/Art/Tech
+
+14) Risk & Mitigation
+Scope, Team size, Market
+
+15) Funding Request
+ขอทุน S2 เพื่อพัฒนา Demo
+
+16) Expected Outcome
+Demo พร้อมทดสอบตลาดและต่อยอดเชิงพาณิชย์
